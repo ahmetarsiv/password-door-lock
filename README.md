@@ -1,5 +1,5 @@
 # Password Door Lock
-[![License](https://poser.pugx.org/bagisto/bagisto-gdpr/license)](https://github.com/ahmetarsiv/password-door-lock/blob/master/LICENSE)
+[![License](https://poser.pugx.org/bagisto/bagisto-gdpr/license)](https://github.com/arsivpro/password-door-lock/blob/master/LICENSE)
 
 ## 1. Introduction:
 
